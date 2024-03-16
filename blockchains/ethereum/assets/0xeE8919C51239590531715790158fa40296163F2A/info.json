@@ -1,0 +1,11 @@
+{
+    "name": "PondCoin",
+    "symbol": "PNDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0xA0637d954dA80323876dEfE1eb48B75BC33953e5",
+    "status": "abandoned",
+    "id": "0xeE8919C51239590531715790158fa40296163F2A"
+}
