@@ -1,0 +1,10 @@
+{
+    "name": "Rock",
+    "type": "ERC20",
+    "symbol": "Rock",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "status": "active",
+    "id": "0x15dA85eAD7C729F5654DFffaC5ef72305A7B8405"
+}

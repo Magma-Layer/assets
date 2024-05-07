@@ -1,0 +1,10 @@
+{
+    "name": "ezBTC",
+    "type": "ERC20",
+    "symbol": "ezBTC",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "status": "active",
+    "id": "0xDE42497B5cEe8181231E395d49818E24a6E40E56"
+}
